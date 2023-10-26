@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', function() {
+//document.addEventListener('DOMContentLoaded', function() {
 
 $('body').append('<style>.added_releases{background:#b1cfb1;}</style>');
 
@@ -15,4 +15,4 @@ for (var i = 0; i < tdElements.length; i++) {
     }
   });
 }
-});
+//});
